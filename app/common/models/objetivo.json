@@ -1,0 +1,17 @@
+{
+  "name": "objetivo",
+  "trackChanges": false,
+  "properties": {
+    "id": {
+      "type": "number",
+      "id": true,
+      "generated": true
+    },
+    "nome": {
+      "type": "string"
+    },
+    "descricao": {
+      "type": "string"
+    }
+  }
+}

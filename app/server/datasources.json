@@ -1,0 +1,13 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory",
+    "file_name": "arq1.db"
+  },
+  "sqlite3": {
+    "name": "sqlite3",
+    "connector": "loopback-connector-sqlite",
+    "file_name": "./meuapp4fun.db3",
+    "debug": false
+  }
+}
