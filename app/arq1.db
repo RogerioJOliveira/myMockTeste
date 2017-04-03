@@ -1,0 +1,22 @@
+{
+  "ids": {
+    "User": 1,
+    "AccessToken": 1,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "newModel": 1,
+    "objetivo": 2
+  },
+  "models": {
+    "User": {},
+    "AccessToken": {},
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "newModel": {},
+    "objetivo": {
+      "1": "{\"nome\":\"Comprar Imovel\",\"descricao\":\"Possibilita a compra de imoveis\",\"id\":1}"
+    }
+  }
+}
