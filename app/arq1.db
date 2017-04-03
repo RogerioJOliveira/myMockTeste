@@ -6,7 +6,7 @@
     "RoleMapping": 1,
     "Role": 1,
     "newModel": 1,
-    "objetivo": 2
+    "objetivo": 5
   },
   "models": {
     "User": {},
@@ -16,7 +16,10 @@
     "Role": {},
     "newModel": {},
     "objetivo": {
-      "1": "{\"nome\":\"Comprar Imovel\",\"descricao\":\"Possibilita a compra de imoveis\",\"id\":1}"
+      "1": "{\"nome\":\"Comprar Imovel\",\"descricao\":\"Possibilita a compra de imoveis\",\"id\":1}",
+      "2": "{\"nome\":\"Comprar casas rural\",\"descricao\":\"Compra de casas na area rural\",\"id\":2}",
+      "3": "{\"nome\":\"Imovel\",\"descricao\":\"Imovel teste\",\"id\":3}",
+      "4": "{\"nome\":\"Aplicação Alto Valor\",\"descricao\":\"Aplicação Alto Valor\",\"id\":4}"
     }
   }
 }
