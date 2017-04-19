@@ -38,8 +38,7 @@
   "newModel": {
     "dataSource": "db",
     "public": true
-  }
-  ,
+  },
   "objetivo": {
     "dataSource": "db",
     "public": true

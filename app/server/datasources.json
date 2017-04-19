@@ -4,10 +4,12 @@
     "connector": "memory",
     "file": "arq1.db"
   },
-  "sqlite3": {
-    "name": "sqlite3",
-    "connector": "loopback-connector-sqlite",
-    "file_name": "./meuapp4fun.db3",
-    "debug": false
+  "heroku4fun": {
+    "host": "us-cdbr-iron-east-03.cleardb.net",
+    "port": 3306,
+    "password": "fe8afda1",
+    "name": "heroku4fun",
+    "user": "b4448f5804568e",
+    "connector": "mysql"
   }
 }
